@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/</loc>
-  <lastmod>2021-11-01T09:40:06+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/index.html</loc>
-  <lastmod>2021-11-01T09:40:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/Stranky/prsa.html</loc>
-  <lastmod>2021-11-01T08:56:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/Stranky/zada.html</loc>
-  <lastmod>2021-10-18T14:29:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/Stranky/nohy.html</loc>
-  <lastmod>2021-11-01T09:01:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lide.uhk.cz/fim/student/jandoji1/Stranky/ostatni.html</loc>
-  <lastmod>2021-10-18T14:30:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1</loc>
+		<priority>1.00</priority>
+		<lastmod>2021-11-19</lastmod>
+	</url>
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/zada.html</loc>
+		<priority>0.17</priority>
+		<lastmod>2021-11-19</lastmod>
+	</url>
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/prsa.html</loc>
+		<priority>0.17</priority>
+		<lastmod>2021-11-19</lastmod>
+	</url>
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/ostatni.html</loc>
+		<priority>0.17</priority>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/nohy.html</loc>
+		<priority>0.17</priority>
+		<lastmod>2021-11-19</lastmod>
+	</url>
 </urlset>
