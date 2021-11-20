@@ -70,4 +70,14 @@
     article img{
         width: 100%;
     }
+
+    footer{
+        align-items: center;
+        justify-content: space-around;
+        padding: 0 1em 0 1em;
+        flex-wrap: wrap;
+    }
+    footer>*{
+        margin: .5em;
+    }
 }

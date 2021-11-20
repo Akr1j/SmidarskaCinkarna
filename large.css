@@ -80,4 +80,8 @@
         max-width: 50%;
         object-fit: contain;
     }
+
+    footer{
+        align-items: center;
+    }
 }

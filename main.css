@@ -30,7 +30,6 @@ footer{
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 footer section{
     display: flex;
