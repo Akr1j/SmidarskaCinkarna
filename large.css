@@ -66,7 +66,7 @@
     }
     .obsah article > *{
         padding: 0 2em 0 2em;
-        max-width: 50%;
+        width: 50%;
     }
     .obsah article p{
         display: flex;
@@ -76,12 +76,47 @@
     .obsah article ul li{
         padding: 0;
     }
-    article img{
+    article > img{
         max-width: 50%;
         object-fit: contain;
     }
 
     footer{
         align-items: center;
+    }
+
+
+    .obsah > article > section.galerie > div{
+        width: 20%;
+        margin: 0 1% 0 1%;
+        flex-basis: fit-content;
+    }
+    .obsah > article > section.galerie > div > img{
+        width: 100%;
+        margin: 0;
+    }
+    .obsah > article > section.galerie > div:active{
+        width: 100%;
+        max-height: 100%;
+        margin: 0;
+        resize: none;
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(170, 170, 170, .7);
+    }
+    .obsah > article > section.galerie > div > img:active{
+        width: 50%;
+        opacity: 1;
+    }
+    .obsah > article > section.galerie {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
     }
 }
