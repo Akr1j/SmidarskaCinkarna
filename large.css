@@ -85,19 +85,23 @@
         align-items: center;
     }
 
-
-    .obsah > article > section.galerie > div{
+    .obsah > article.reversed{
+        flex-direction: row-reverse;
+    }
+    .galerie > div{
         width: 20%;
         margin: 0 1% 0 1%;
         flex-basis: fit-content;
+        flex-wrap: wrap;
     }
-    .obsah > article > section.galerie > div > img{
-        width: 100%;
+    .galerie > div > img{
         margin: 0;
+        width: 15vw;
+        flex-wrap: wrap;
     }
-    .obsah > article > section.galerie > div:active{
-        width: 100%;
-        max-height: 100%;
+    .galerie > div:active{
+        height: 100vh;
+        width: 100vw;
         margin: 0;
         resize: none;
         position: fixed;
@@ -107,16 +111,19 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: rgba(170, 170, 170, .7);
+        background-color: rgba(170, 170, 170, 0.7);
     }
-    .obsah > article > section.galerie > div > img:active{
-        width: 50%;
+    .galerie > div > img:active{
+        width: auto;
+        height: 100vh;
         opacity: 1;
+        max-width: none;
+        resize: none;
     }
-    .obsah > article > section.galerie {
+    .galerie {
         display: flex;
         align-items: center;
         justify-content: center;
-        
+        flex-wrap: wrap;        
     }
 }

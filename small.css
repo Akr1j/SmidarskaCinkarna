@@ -80,4 +80,17 @@
     footer>*{
         margin: .5em;
     }
+
+
+    .galerie{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .galerie > div{
+        resize: none;
+        margin: 1%;
+        min-width: 290px;
+        max-width: 300px;
+    }
 }
