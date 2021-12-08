@@ -129,6 +129,7 @@
     iframe{
         height: max-content;
         min-height: 300px;
+        width: 100%;
     }
     #facebook{
         display: flex;
