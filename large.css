@@ -68,7 +68,7 @@
         padding: 0 2em 0 2em;
         width: 50%;
     }
-    .obsah article p{
+    .obsah > article > p{
         display: flex;
         align-items: center;
         justify-content: center;
@@ -135,5 +135,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+    #mapa > *{
+        width: 100%;
     }
 }

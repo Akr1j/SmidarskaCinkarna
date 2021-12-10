@@ -98,4 +98,11 @@
         align-items: center;
         justify-content: center;
     }
+    #mapa{
+        display: flex;
+        justify-content: center;
+    }
+    #mapa > *{
+        width: 100%;
+    }
 }
