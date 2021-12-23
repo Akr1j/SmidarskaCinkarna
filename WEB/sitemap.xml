@@ -6,7 +6,12 @@
 		<lastmod>2021-12-12</lastmod>
 	</url>
 	<url>
-		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/nohy.html</loc>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/zada.html</loc>
+		<priority>0.17</priority>
+		<lastmod>2021-12-12</lastmod>
+	</url>
+	<url>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/prsa.html</loc>
 		<priority>0.17</priority>
 		<lastmod>2021-12-12</lastmod>
 	</url>
@@ -16,13 +21,8 @@
 		<lastmod>2021-12-12</lastmod>
 	</url>
 	<url>
-		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/prsa.html</loc>
+		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/nohy.html</loc>
 		<priority>0.17</priority>
-		<lastmod>2021-12-10</lastmod>
-	</url>
-	<url>
-		<loc>https://www.lide.uhk.cz/fim/student/jandoji1/Stranky/zada.html</loc>
-		<priority>0.17</priority>
-		<lastmod>2021-12-11</lastmod>
+		<lastmod>2021-12-12</lastmod>
 	</url>
 </urlset>
